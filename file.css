@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 600px;
+    border: 2px solid blue;
+}
+
+.pelota {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border-radius: 50%;
+}
